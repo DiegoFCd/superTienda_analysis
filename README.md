@@ -1,4 +1,4 @@
-# Aqui se trabajo con un dataSet de información de la operación comercial de una compañia llamada SuperTienda.<br>
+# Aqui se trabajo con un dataSet de información de la operación comercial de una compañia llamada SuperTienda Easy.<br>
 # Se hizo trabajo de limpieza, carga y analisis del mismo con Pyhton y desde una perspectiva más grafica pero igual de analítica con Tableau
 
 #Agrego link para ver el Dashboard desde Tableau Public:<br>
